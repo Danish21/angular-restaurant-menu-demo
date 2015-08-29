@@ -137,6 +137,7 @@ angular.module('angularApp.controllers',[])
 			}
 			
 		]}];
+		
 		$scope.cateringmessage='Would you like us to cater your event? Call us &amp; we\'ll help you find a venue and organize the event: 626.511.1170';
 		$scope.limitamount = 5;
 		$scope.menucover= {
